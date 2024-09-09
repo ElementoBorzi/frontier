@@ -3,4 +3,5 @@
         {"login": "1", "password": "2"},
         {"login": "2", "password": "3"},
     ]
+	"message": "Please enter your login and password to access the system."
 }
